@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BluetoothDroid</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="pwm">
+        <item>No pwm</item>
+        <item>PWM</item>
+    </string-array>
+</resources>
